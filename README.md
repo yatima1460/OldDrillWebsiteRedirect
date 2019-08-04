@@ -1,1 +1,3 @@
-https://drill.software/
+---
+redirect_to: "https://drill.software"
+---
